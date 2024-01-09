@@ -1,0 +1,1 @@
+o create a graphical version of Tic-Tac-Toe with X as green and O as blue circles in a white background, you can utilize the Pygame library. First, ensure that you have Pygame installed (pip install pygame). Then, you can use the following code:
